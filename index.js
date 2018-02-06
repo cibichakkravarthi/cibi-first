@@ -1,1 +1,1 @@
-console.log('5 of 5 tests passed')
+console.log('5 of 5 tests passed u suck');
